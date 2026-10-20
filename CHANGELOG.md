@@ -1,8 +1,8 @@
 # CHANGELOG.md
 
-## v0.0.1
+## v0.0.4
 Fixes:
- - None
+ - Some nice fixes
 
 Features:
  - Initial version of application
